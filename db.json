@@ -1,0 +1,20 @@
+{
+  "einkaufszettel": [
+    {
+    "mein_einkaufszettel": {
+        "id": "id"
+        "name": "Mein Einkaufszettel",
+        "items": [
+            {
+              "id": "id",
+              "name": "product_name",
+              "amount": 1,
+              "company": "rewe"
+            }
+        ]
+      }
+    }
+  ]
+
+}
+  
