@@ -2,7 +2,7 @@
   "einkaufszettel": [
     {
     "mein_einkaufszettel": {
-        "id": "id"
+        "id": "id",
         "name": "Mein Einkaufszettel",
         "items": [
             {
